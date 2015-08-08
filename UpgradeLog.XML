@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BrickO1">
+</Property><Property Name="Solution File" Value="C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1.sln">
+</Property><Property Name="User Options File" Value="C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1.suo">
+</Property><Property Name="Date" Value="Saturday, February 05, 2011">
+</Property><Property Name="Time" Value="9:16 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BrickO1.sln" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BrickO1.suo" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1.suo">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\BrickO1.csproj" Description="Project file successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\BrickO1.csproj">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Ball.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Ball.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Brick.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Brick.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Form1.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Form1.Designer.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\GameObject.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\GameObject.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Paddle.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Paddle.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Program.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Program.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Row.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Row.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Score.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Score.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\SpeedDialog.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\SpeedDialog.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\SpeedDialog.Designer.cs" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\SpeedDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Properties\Settings.settings" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Form1.resx" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\Properties\Resources.resx" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\SpeedDialog.resx" Description="File successfully backed up as C:\Users\kinbere\CS272_1\mymaterials\BrickO1\Backup\BrickO1\SpeedDialog.resx">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\BrickO1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BrickO1" Source="BrickO1\BrickO1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BrickO1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BrickO1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BrickO1" Source="BrickO1\BrickO1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

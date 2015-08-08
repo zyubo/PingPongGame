@@ -1,0 +1,69 @@
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.Form1.resources
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.Properties.Resources.resources
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.SpeedDialog.resources
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.csproj.GenerateResource.Cache
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\bin\Debug\BrickO1.exe
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\bin\Debug\BrickO1.pdb
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.exe
+C:\Users\kinbere\Documents\august09\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.pdb
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.exe
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.pdb
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\bin\Debug\BrickO1.exe
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\bin\Debug\BrickO1.pdb
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.Form1.resources
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.Properties.Resources.resources
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.SpeedDialog.resources
+C:\Users\kinbere\CS272_1\BrickO1\BrickO1\obj\Debug\BrickO1.csproj.GenerateResource.Cache
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\obj\Debug\BrickO1.exe
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\obj\Debug\BrickO1.pdb
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\bin\Debug\BrickO1.exe
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\bin\Debug\BrickO1.pdb
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\obj\Debug\BrickO1.Form1.resources
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\obj\Debug\BrickO1.Properties.Resources.resources
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\obj\Debug\BrickO1.SpeedDialog.resources
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kinbere\CS272_1\mymaterials\BrickO1\BrickO1\obj\Debug\GenerateResource.write.1.tlog
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\obj\Debug\BrickO1.exe
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\obj\Debug\BrickO1.pdb
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\bin\Debug\BrickO1.exe
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\bin\Debug\BrickO1.pdb
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\obj\Debug\BrickO1.Form1.resources
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\obj\Debug\BrickO1.Properties.Resources.resources
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\obj\Debug\BrickO1.SpeedDialog.resources
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\obj\Debug\GenerateResource.read.1.tlog
+C:\Downloads\Course Materials\Hutaf\BrickO1\BrickO1\BrickO1\obj\Debug\GenerateResource.write.1.tlog
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\obj\Debug\BrickO1.exe
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\obj\Debug\BrickO1.pdb
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\bin\Debug\BrickO1.exe
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\bin\Debug\BrickO1.pdb
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\obj\Debug\BrickO1.Form1.resources
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\obj\Debug\BrickO1.Properties.Resources.resources
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\obj\Debug\BrickO1.SpeedDialog.resources
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\obj\Debug\BrickO1.csproj.GenerateResource.Cache
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong\BrickO1\BrickO1\obj\Debug\BrickO1.csprojResolveAssemblyReference.cache
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\obj\Debug\BrickO1.exe
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\obj\Debug\BrickO1.pdb
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\bin\Debug\BrickO1.exe
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\bin\Debug\BrickO1.pdb
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\obj\Debug\BrickO1.csprojResolveAssemblyReference.cache
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\obj\Debug\BrickO1.Form1.resources
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\obj\Debug\BrickO1.Properties.Resources.resources
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\obj\Debug\BrickO1.SpeedDialog.resources
+C:\Downloads\Course Materials\Hutaf\Brick_PingPong2\BrickO1\BrickO1\obj\Debug\BrickO1.csproj.GenerateResource.Cache
+C:\Downloads\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.exe
+C:\Downloads\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.pdb
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.exe
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.pdb
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\bin\Debug\BrickO1.exe
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\bin\Debug\BrickO1.pdb
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.csprojResolveAssemblyReference.cache
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.Form1.resources
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.Properties.Resources.resources
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.SpeedDialog.resources
+C:\temp\Course Materials\Hutaf\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.csproj.GenerateResource.Cache
+F:\resume\Projects\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.exe
+F:\resume\Projects\PingPongV2\PingPongV2\BrickO1\obj\Debug\BrickO1.pdb
